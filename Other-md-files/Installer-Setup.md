@@ -13,4 +13,4 @@ So if you decided to come here, you'll be wanting to setup a small installation 
 
 1. In the Installer.py change the following variables: `GITHUB_USERNAME`, `NAME_OF_REPO`and `NAME_OF_PDF` with the necessary strings. 
 2. Now compile  the file into an executable by doing the following, opening a cmd or pwoershell terminal where u have the file saved, the running the command: `pyinstaller Installer.py --onefile --noconsole`
-3. Now you have set thsi all up, you can go on to send the Installer.exe to anyone you want. 
+3. Now you have set this all up, you can go on to send the Installer.exe to anyone you want. 
