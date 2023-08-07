@@ -7,7 +7,7 @@ So if you decided to come here, you'll be wanting to setup a small installation 
 
 1. Make a Github Account. 
 2. Make a new repository. 
-3. Upload the Harbringer.exe to that repository. 
+3. Upload the finished.exe to that repository. 
 
 ## Preperation: 
 
