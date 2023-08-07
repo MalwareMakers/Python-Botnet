@@ -69,6 +69,9 @@ There a several commands which can be used, you will need to send this in whatev
 * `/system-info` - Shows info about the victims pc.
 * `/help` - Brings up a help menue with all the commands and their functions. 
 
+## Helping Out: 
+If you found this usefull or decided to clone this, Give this repo a star, thsi will help both gow thsi repo but also if there are enough stars I will do a complete update of the system with much better software. 
+
 ## Find a Bug? 
 
 If you have found a bug in the code, use the issue tab above. If you would like to submit a PR with a fix, reference the issue you are fixing. If you are looking for new features, use the suggestion function in the issues tab above to do so. 
