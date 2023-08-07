@@ -1,4 +1,4 @@
-# Harbinger
+# HarBinger
 
 A botnet system (basic) based on Discord. As of now, it isn't really a botnet, but in the future, given that enough people support this, I'll add in actual botnet features.
 
