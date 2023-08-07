@@ -70,7 +70,7 @@ There a several commands which can be used, you will need to send this in whatev
 * `/help` - Brings up a help menue with all the commands and their functions. 
 
 ## Helping Out: 
-If you found this usefull or decided to clone this, Give this repo a star, thsi will help both gow thsi repo but also if there are enough stars I will do a complete update of the system with much better software. 
+If you found this usefull or decided to clone this, Give this repo a star, this will help both gow this repo but also if there are enough stars I will do a complete update of the system with much better software. 
 
 ## Find a Bug? 
 
