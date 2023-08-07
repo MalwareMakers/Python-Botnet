@@ -41,7 +41,8 @@ There are a few things you will need to set up to make this work:
 1. Activate developer mode on Discord: If you need help with this, go [here](https://beebom.com/how-enable-disable-developer-mode-discord/).
 2. Make a new server (unless you want others to see the info) and create a new channel. If you turned developer mode on, when you right-click on the channel you want to use, it will show an option to `Copy Channel ID`. Click on this and save the ID somewhere you can retrieve it later.
 3. Create a Discord bot at the official Discord application maker portal: [here](https://discord.com/developers/applications). Once you have made a new bot, copy the bot token to a place where you can retrieve it later.
-4. Also, in the Discord server, create a new webhook to be used and save the URL to be used in the next step.
+4. Now invite the bot into your server.
+5. Also, in the Discord server, create a new webhook to be used and save the URL to be used in the next step.
 
 ## Preparation
 
