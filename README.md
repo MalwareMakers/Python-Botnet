@@ -25,6 +25,9 @@ Here's what most of you guys are probably most interested in; it can:
 
 As of right now, that's all of the features this thing has. Not a lot - I know.
 
+## Quick Addon: 
+If you dont want to follow this guide i have aslo made a youtube video which walks through the installation process [here](https://www.youtube.com/watch?v=MesEEaicFAM)
+
 ## Necessary Things
 
 To actually edit this script as needed and compile it into an executable, you will need the following:
