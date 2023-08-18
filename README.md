@@ -16,7 +16,7 @@ Here's what most of you guys are probably most interested in; it can:
 - Send screenshots of a victim machine.
 - Get basic internet info: Public IP, Geolocation (this won't be very accurate - I apologize for this in advance), ISP, Verification whether the victim is a proxy or on a hosting service.
 - Remote Shutdown (just for fun).
-- Keylogging (based on an older repository of mine).
+- Keylogging 
 - System info: CPU info, Memory info, Disk info, Internet info (interface info).
 - Self-Destruct: This is a feature that is very buggy; it rarely works.
 - File encryption: Give a password and a directory, and every single file that can be encrypted in that directory will be using XOR encryption (this isn't the best possible way of doing this by far, but the executable file size of this is already quite big).
