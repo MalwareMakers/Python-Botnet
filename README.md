@@ -2,6 +2,9 @@
 
 A botnet system (basic) based on Discord. As of now, it isn't really a botnet, but in the future, given that enough people support this, I'll add in actual botnet features.
 
+## Note: 
+HarbringerV1 is now depricate in favour of HarbringerV2, it can be found [here](https://github.com/MalwareMakers/HarBringer-V2)
+
 ## A Quick Overview
 
 This is a very crude botnet script. Its command center is based on a Discord server (will be explained later).
